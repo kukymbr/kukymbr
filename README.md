@@ -9,7 +9,7 @@ Some of the products I've made a contribution:
 - <img src="https://images.squarespace-cdn.com/content/v1/64bfd6eec9cb604938ac1259/b4dbb809-1098-4754-8057-4c820150dfae/favicon.ico" width="16"> [FlightPath3D](https://flightpath3d.com), in-flight interactive apps;
 + and a lot more… 
 
-### Skils 💪
+### Skills 💪
 
 ```go
 var (
@@ -17,7 +17,7 @@ var (
   storages = []Storage{"PostgreSQL", "cocroachDB", "MySQL", "MariaDB", "MongoDB", "Clickhouce", "ElasticSearch", "Redis"}
   brokers = []Broker{"NATS", "Kafka", "RabbitMQ", "Redis"}
   cicd = []CICD{"gitlab-ci", "gh actions"}
-  other = []any{"docker", "git", "k8s", "Prometheus", "Grafana"}
+  other = []any{"docker", "git", "k8s", "Prometheus", "Grafana", "REST", "gRPC", "OpenAPI"}
 )
 ```
 
