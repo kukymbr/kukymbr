@@ -1,4 +1,8 @@
-## Hi there 👋
+## Go dev everything 👋
+
+Hi, I'm a Golang developer with a 16+ years of backend development experience.
+Most of my projects are commercial and NDA-restricted, but here you can find some tiny open-source tools.
+I'll be glad if some of them would be useful for your work.
 
 <!--
 **kukymbr/kukymbr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
