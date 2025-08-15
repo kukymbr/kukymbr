@@ -1,4 +1,4 @@
-## Go dev everything 🦔
+## Go dev everything <img src="logo.svg" width="25" valign="middle">
 
 Hi, I'm a Golang developer with a 16+ years of backend development experience.
 
